@@ -1,8 +1,10 @@
 {
-  "name": "KDT-PWA-1-Project-A-Team-Right",
+  "name": "shared",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/KDT-PWA-Class-One-Group/KDT-PWA-1-Project-A-Team-Right.git",
-  "author": "kongukjae <kongukjae@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  }
 }
